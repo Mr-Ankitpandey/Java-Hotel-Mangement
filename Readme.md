@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple **Hotel Management System** written in Java. It allows hotel staff to manage room bookings, check room availability, order food for rooms, and handle customer checkouts. The system uses file serialization to save and restore hotel data between sessions.
+This is a **Hotel Management System** written in Java. It allows hotel staff to manage room bookings, check room availability, order food for rooms, and handle customer checkouts. The system uses file serialization to save and restore hotel data between sessions.
 
 ## Features
 
@@ -76,4 +76,5 @@ This is a simple **Hotel Management System** written in Java. It allows hotel st
 ---
 
 **Code by:**  
+
 @nkit
